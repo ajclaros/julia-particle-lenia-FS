@@ -1,0 +1,4 @@
+#+title: Particle Lenia From Scratch
+
+- Translation from Javascript to Julia
+- [[https://observablehq.com/@znah/particle-lenia-from-scratch][Original Post]]
